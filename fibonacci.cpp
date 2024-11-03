@@ -8,5 +8,6 @@ int f(int i)
 }
 int main()
 {
+    cout << "Hello everyone!";
     cout << f(  3 ) << endl;
 }
