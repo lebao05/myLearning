@@ -12,4 +12,5 @@ int main()
     cout << f(  3 ) << endl;
     cout << "Ahihi";
     cout << "NEENE";
+    cout << "OMG";
 }
