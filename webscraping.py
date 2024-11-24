@@ -33,6 +33,7 @@ def findJob():
     else:
         print(f"Failed to fetch the webpage. Status code: {response.status_code}")
 
+# Main loop with Ctrl+C handling
 try:
     while True:
         findJob()
